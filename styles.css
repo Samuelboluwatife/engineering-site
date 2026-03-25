@@ -1347,6 +1347,9 @@ li a:hover::after{
     .form-row {
         grid-template-columns: 1fr;
     }
+.contact-form{
+width:400px;
+}
 }
 
 /* Footer Styling */
